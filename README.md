@@ -1,5 +1,5 @@
 # 3year Database course work
-Task: Develop a system to track intraoffice expenses
+Task: Develop a system to track intraoffice expenses  
 Description of task:  
 Develop a system to track intraoffice expenses.
 Employees of the company have the opportunity to make small purchases for the needs of the company by providing a sales receipt to the accounting department. 
